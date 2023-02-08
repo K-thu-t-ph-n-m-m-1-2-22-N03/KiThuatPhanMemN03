@@ -1,5 +1,11 @@
-# KiThuatPhanMemN03
-## *yêu cầu chức năng:
+# Week 2
+# Thành viên:
+* Trần Ngọc Lâm (5*)
+* Kiều Duy Nam (5*)
+* Nông Ngọc Huân (5*)
+* Mai Phúc Lâm (5*)
+* Dương Đức Bình (5*)
+## **Yêu cầu chức năng*:
 * Quản lý danh mục dữ liệu đối tượng: khách hàng, nhà cung cấp, nguyên vật liệu, công cụ dụng cụ, sản phẩm.
 * Tổng hợp và theo dõi tiến độ cụ thể của từng đơn đặt hàng.
 * Tự động lập kế hoạch sản xuất dựa trên các yêu cầu đặt hàng và định mức quy định tại đơn vị.
@@ -7,7 +13,7 @@
 * Tạo lệnh sản xuất trực tiếp trên phần mềm, theo dõi và thống kê lại các thông tin trong quá trình sản xuất theo thời gian thực.
 * Hỗ trợ kiểm tra và giám sát sự cố trong quá trình phát sinh.
 
-## *yêu cầu phi chức năng:
+## **Yêu cầu phi chức năng*:
 *	Giao diện người dùng thân thiện, dễ sử dụng.
 *	Tính năng đồng bộ dữ liệu trên các thiết bị khác nhau.
 *	Bảo mật dữ liệu với các chức năng bảo vệ dữ liệu, bảo mật đăng nhập và quản lý người dùng.
