@@ -27,3 +27,6 @@ So sánh với các hệ thống khác trên thị trường, ứng dụng giả
 # 2. Tổng quan hệ thống
 ## 2.1 Phát biểu bài toán
 Xây dựng Phần mềm quản lý sản xuất nhằm mục đích chuẩn hóa lại quy trình sản xuất, tối đa hóa năng suất của máy móc và tối ưu được nguồn lực của đơn vị, nâng cao hiệu quả hoạt động sản xuất.
+## 2.2	Sơ đồ hệ thống
+## 2.3	Phạm vi điều chỉnh
+## 2.4	Từ điển thuật ngữ
