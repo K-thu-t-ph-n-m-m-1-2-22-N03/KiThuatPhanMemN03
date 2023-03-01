@@ -16,10 +16,8 @@
 
 ## **Yêu cầu phi chức năng*:
 *	Giao diện người dùng thân thiện, dễ sử dụng.
-*	Tính năng đồng bộ dữ liệu trên các thiết bị khác nhau.
 *	Bảo mật dữ liệu với các chức năng bảo vệ dữ liệu, bảo mật đăng nhập và quản lý người dùng.
 *	Tốc độ xử lý dữ liệu nhanh và ổn định.
 *	Tối ưu việc sử dụng tài nguyên máy tính.
-*	Hỗ trợ các ngôn ngữ lập trình và hệ điều hành phổ biến.
 *	Tích hợp các công nghệ mới nhất.
 *	Cập nhật và bảo trì dễ dàng.
