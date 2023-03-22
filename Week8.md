@@ -38,6 +38,7 @@
 | :----- | :---------- | :-------------- | 
 | Visitor/User/Admin | Để đăng nhập vào ứng dụng |Login (UC-1) | 
 | Visitor/User/Admin | Để đăng ký vào hệ thống ứng dụng | Register (UC-2) | 
+| Visitor/User/Admin | Để xóa tài khoản | Register (UC-2) |
 | Visitor/User | Để chỉnh sửa thông tin sản phẩm | Update(UC-3)  | 
 | Visitor/User | Để thêm sản phẩm           | Add(UC-4)    |
 | Visitor/User | Để chỉnh xóa sản phẩm | Delete(UC-5)  | 
