@@ -6,4 +6,7 @@
 * Dương Đức Bình (5*)
 * Đoàn Hữu Bách (5*)
 # IV. Sơ đồ trình tự hệ thống (System Sequence Diagrams)
+![register](images/register.png)  
+<center>UC-2</center>
+
 
