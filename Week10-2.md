@@ -48,13 +48,29 @@
 | Concept | Attributes | Attribute Description |
 | :----- | :---------- | :-------------- |
 | Data Visualizer | Set data | This is setter for the system where the data is converted into visual form to fetch to GUI |
-| Set user’s preference | This allows the data visualizer to be customized to each user’s taste | |
+| | Set user’s preference | This allows the data visualizer to be customized to each user’s taste | 
 |Smart Contracts (Ethereum network) | Invoke a transaction | The server will the blockchain to add a new node in the common chain which typical occur when there is a new user or old user update their data |
-| Add parameters | This adds flexibility to the system as the administrator adjust the system based on the user’s preference | |
-| Get Data | An entry or interface between the server and the blockchain to extract the data for the user | |
+| | Add parameters | This adds flexibility to the system as the administrator adjust the system based on the user’s preference | 
+| | Get Data | An entry or interface between the server and the blockchain to extract the data for the user | 
 | Authenticators | Get key | This is for the getter and setter for the front and back to authenticate and distinguish between the user and third party |
 
 ### iv. Traceability Matrix
+| Domain Concepts | Login | Logout| Display | Compare | Data | Authozization | Register | Public Access | Input | Data Adminstratior | Notify |
+| Controller | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| GUI| :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+|Key | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Smart Contract | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Authenicator | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+|Website | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+|Server | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Data Request| :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Web Framework | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Account | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Credentials | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Database | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Data Visualization| :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+| Data Analyzer | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
+|Text Data Display | :---------- | :-------------- |:----- | :---------- | :-------------- | :----- | :---------- | :-------------- |:----- | :---------- | :-------------- |
 ## 6.b System Operation Contracts
 ## 6.c Mathematical Model
 # 7. Interaction Diagram
