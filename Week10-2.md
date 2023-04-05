@@ -36,8 +36,24 @@
 | Controller <-> Smart Contracts | (1) Controller generates a request to invoke the appropriate smart contract for data retrieval. (2) Controller receives raw data from the blockchain | (1) Generates Request (2) Receive Data |
 | Controller <-> Data Analyzer | Controller passes raw data to the data analyzer | Conveys Data |
 | Analyzer <-> Data Visualizer | Analyzer passed processed data to be visualized | Conveys Data |
+| Text Data Display <-> UserInterface| Display the non-graphical data in an organized way | Display Data |
+| Data Visualizer <-> UserInterface| Display graphical data| Display Data |
+| Controller <-> Database| (1) Controller generates a data retrieval/upload request (2) Controller receives data from the database| (1) Request Data  (2) Receive Data|
+| Authenticator <-> Account| Once authenticated, user account data is stored in Account concept (from database)| Send Account Info |
+| Account <-> Data Request| Data request receives account information to be passed along with the request| Receive Account Info |
+| Account <-> User Data| User Data form receives account information to be passed along with the user data| Receive Account Info |
+
 
 ### iii. Attribute definitions
+| Concept | Attributes | Attribute Description |
+| :----- | :---------- | :-------------- |
+| Data Visualizer | Set data | This is setter for the system where the data is converted into visual form to fetch to GUI |
+| Set user’s preference | This allows the data visualizer to be customized to each user’s taste | |
+|Smart Contracts (Ethereum network) | Invoke a transaction | The server will the blockchain to add a new node in the common chain which typical occur when there is a new user or old user update their data |
+| Add parameters | This adds flexibility to the system as the administrator adjust the system based on the user’s preference | |
+| Get Data | An entry or interface between the server and the blockchain to extract the data for the user | |
+| Authenticators | Get key | This is for the getter and setter for the front and back to authenticate and distinguish between the user and third party |
+
 ### iv. Traceability Matrix
 ## 6.b System Operation Contracts
 ## 6.c Mathematical Model
