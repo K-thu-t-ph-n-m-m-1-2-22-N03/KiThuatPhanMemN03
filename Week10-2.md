@@ -26,6 +26,17 @@
 
 
 ### ii. Association definitions
+| Concept Pair | Association Description | Association Name |
+| :----- | :---------- | :-------------- |
+| User-Interface (UI) <-> Key | User enters their login information or new user information on the UI | User Credentials |
+| Key <-> Authenticator | The authenticator takes the user’s information and prepares verification request, which is sent to the controller. | Prepares Request |
+| Authenticator <-> Controller | (1) Controller receives verification requests, used to invoke the appropriate smart contract. (2) Controller informs authenticator of successful login | (1) Conveys Request (2) Conveys result |
+| Controller <-> Data Request | Controller receives a request for data. It prepares a formal data request | Prepares Request |
+| Controller <-> User Data | Controller receives user data. It prepares a formal data upload request | Prepares Request |
+| Controller <-> Smart Contracts | (1) Controller generates a request to invoke the appropriate smart contract for data retrieval. (2) Controller receives raw data from the blockchain | (1) Generates Request (2) Receive Data |
+| Controller <-> Data Analyzer | Controller passes raw data to the data analyzer | Conveys Data |
+| Analyzer <-> Data Visualizer | Analyzer passed processed data to be visualized | Conveys Data |
+
 ### iii. Attribute definitions
 ### iv. Traceability Matrix
 ## 6.b System Operation Contracts
