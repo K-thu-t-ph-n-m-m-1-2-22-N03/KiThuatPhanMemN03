@@ -45,9 +45,8 @@
 | Visitor/User | Để thống kê hạn sử dụng | CheckDate(UC-6)  | 
 | Visitor/User | Để sắp xếp sản phẩm | QLK(UC-7)  | 
 | Visitor/User | Để xem hàng tồn| QLK(UC-7)  | 
-| Visitor/User | Để thống kê hsd| QLK(UC-7)  |
 | Visitor/User | Để tìm kiếm sản phẩm | QLK(UC-7)  |
-| Visitor/User | Để xuất hóa đơn cho khách hàng  | SaoKe(UC-8)  | 
+| Visitor/User | Để xem hóa đơn cửa hàng  | SaoKe(UC-8)  | 
 | Visitor/User | Để xuất hóa đơn cuối ca | SaoKe(UC-8)  | 
 | User | Để thông kê doanh thu | SaoKe(UC-8)  |
 | Visitor/User | Để xuất hóa đơn cho khách hàng| ThanhToan(UC-9)  | 
