@@ -42,7 +42,7 @@
 | Visitor/User | Để chỉnh sửa thông tin sản phẩm | Update(UC-3)  | 
 | Visitor/User | Để thêm sản phẩm           | Add(UC-4)    |
 | Visitor/User | Để chỉnh xóa sản phẩm | Delete(UC-5)  | 
-| Visitor/User | Để chỉnh sửa thông tin sản phẩm | Update(UC-6)  | 
+| Visitor/User | Để thống kê hạn sử dụng | CheckDate(UC-6)  | 
 | Visitor/User | Để sắp xếp sản phẩm | QLK(UC-7)  | 
 | Visitor/User | Để xem hàng tồn| QLK(UC-7)  | 
 | Visitor/User | Để thống kê hsd| QLK(UC-7)  |
